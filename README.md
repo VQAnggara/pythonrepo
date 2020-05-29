@@ -20,14 +20,6 @@
 - Merubah dari PyCharm ke Github
 - Merubah dari Github dan melihat nya di PyCharm
 
-## Keuntungan belajar Git dan Github
-- Akan sangat membantu ketika berkolaborasi dalam pengembangan aplikasi
-- Source code akan aman
-
-## Menggunakan Git dengan Team
-- Mulai bekerja dengan melihat ke issue tracker
-- Bekerja tidak pada Branch Master namun pada Branch tersendiri
-- Mem-push branch baru tersebut atau mem-push jika sudah ada commit
-- Merubah kode pada branch tersebut
-- Meng-commit
-- Mem-push branch tersebut
+## Kesimpulan
+- Dengan menggunakan Git dan Github, kode akan aman dari harddisk yang rusak
+- Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portfolio
