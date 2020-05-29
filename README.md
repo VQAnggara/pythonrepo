@@ -14,7 +14,7 @@
 - Kirim perubahan dengan git push
 
 ## Menggunakan Git dengan PyCharm
-- Download PyCharm versi terbaru
+- Download PyCharm versi terbaru. Downloadlah sesuai sistem operasi yang dimiliki
 - PyCharm lebih stabil di Linux
 - Membuka Project yang sudah di clone di command line
 - Merubah file
