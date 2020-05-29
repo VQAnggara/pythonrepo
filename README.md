@@ -20,3 +20,4 @@
 
 ## Keuntungan belajar Git dan Github
 - Akan sangat membantu ketika berkolaborasi dalam pengembangan aplikasi
+- Source code akan aman
