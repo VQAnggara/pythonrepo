@@ -23,3 +23,4 @@
 ## Kesimpulan
 - Dengan menggunakan Git dan Github, kode akan aman dari harddisk yang rusak
 - Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portfolio
+- Belajar Git akan memudahkan Anda dalam mengerjakan suatuproject didalam tim
