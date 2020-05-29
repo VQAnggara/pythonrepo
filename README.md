@@ -1,6 +1,7 @@
 # Tutorial Langkah-Langkah Menggunakan Git dan GitHub
 
 ## Menggunakan Git dengan Command Line
+- Pastikan Anda sudah punya akun Github
 - Buat SSH Keys
 - Upload ke GitHub
 - Buat Repository
