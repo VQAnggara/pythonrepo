@@ -13,5 +13,10 @@
 - Simpan perubahan dengan git commit
 - Kirim perubahan dengan git push
 
+## Menggunakan Git dengan PyCharm
+- Membuka Project yang sudah di clone di command line
+- Merubah file
+- Mengirim file ke server Github
+
 ## Keuntungan belajar Git dan Github
 - Akan sangat membantu ketika berkolaborasi dalam pengembangan aplikasi
