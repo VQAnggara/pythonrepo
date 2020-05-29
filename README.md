@@ -23,3 +23,11 @@
 ## Keuntungan belajar Git dan Github
 - Akan sangat membantu ketika berkolaborasi dalam pengembangan aplikasi
 - Source code akan aman
+
+## Menggunakan Git dengan Team
+- Mulai bekerja dengan melihat ke issue tracker
+- Bekerja tidak pada Branch Master namun pada Branch tersendiri
+- Mem-push branch baru tersebut atau mem-push jika sudah ada commit
+- Merubah kode pada branch tersebut
+- Meng-commit
+- Mem-push branch tersebut
