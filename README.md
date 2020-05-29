@@ -17,6 +17,8 @@
 - Membuka Project yang sudah di clone di command line
 - Merubah file
 - Mengirim file ke server Github
+- Merubah dari PyCharm ke Github
+- Merubah dari Github dan melihat nya di PyCharm
 
 ## Keuntungan belajar Git dan Github
 - Akan sangat membantu ketika berkolaborasi dalam pengembangan aplikasi
