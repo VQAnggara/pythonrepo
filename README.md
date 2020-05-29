@@ -1,4 +1,4 @@
-# Test cara menggunakan Git dan GitHub
+# Tutorial Langkah-Langkah Menggunakan Git dan GitHub
 
 ## Menggunakan Git dengan Command Line
 - Buat SSH Keys
