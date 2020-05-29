@@ -1,4 +1,5 @@
 # Tutorial Langkah-Langkah Menggunakan Git dan GitHub
+- Cara efektif belajar Git dan Github
 
 ## Menggunakan Git dengan Command Line
 - Pastikan Anda sudah punya akun Github
