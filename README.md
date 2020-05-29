@@ -12,3 +12,6 @@
 - Tambahkan ke daftar file yang di ubah dengan cara git add 
 - Simpan perubahan dengan git commit
 - Kirim perubahan dengan git push
+
+## Keuntungan belajar Git dan Github
+- Akan sangat membantu ketika berkolaborasi dalam pengembangan aplikasi
