@@ -31,3 +31,4 @@
 - Merubah kode pada branch tersebut
 - Meng-commit
 - Mem-push branch tersebut
+- Belajar git itu mudah
