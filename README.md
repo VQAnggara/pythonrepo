@@ -33,6 +33,9 @@
 - Mem-push branch tersebut
 - Belajar git itu mudah
 
+## Menginstallasi Git pada Windows
+- Downloadlah file di https://git-scm.com/ dan pilih sistem oprasi Windows
+
 ## Kesimpulan
 - Dengan menggunakan Git dan Github, kode akan aman dari harddisk yang rusak
 - Memiliki repository Github yang public, akan menjadikan repository tersebut sebagai portfolio
